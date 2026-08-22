@@ -1,0 +1,29 @@
+{
+    "buffer_font_family": "JetBrainsMono Nerd Font",
+    "buffer_font_size": 20,
+    "buffer_line_height": { "custom": 1.5 }, // BY DEFAULT IT WILL BE 1.4
+
+    "ui_font_family": "JetBrainsMono Nerd Font",
+    "ui_font_size": 20, // IF YOUR DISPLY BIG RATIO MAKE EVEN BIGGER
+
+    "toolbar": {
+        "breadcrumbs": false,
+        "quick_actions": false
+    },
+
+    "project_panel": {
+        "entry_spacing": "standard"
+    },
+
+    "telemetry": {
+        "diagnostics": false,
+        "metrics": false,
+        "anthropic_retention": false
+    },
+    "icon_theme": "Material Icon Theme",
+    "theme": {
+        "mode": "dark",
+        "light": "One Light",
+        "dark": "Catppuccin Mocha"
+    }
+}
