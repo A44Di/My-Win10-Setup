@@ -1,0 +1,32 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "window.zoomLevel": 1,
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.minimap.enabled": false,
+    "editor.lineHeight": 1.5,
+    "editor.wordWrap": "on",
+
+    "editor.cursorWidth": 3,
+    "editor.cursorSmoothCaretAnimation": "explicit",
+    "editor.cursorBlinking": "solid",
+
+    "workbench.startupEditor": "none",
+    "workbench.browser.showInTitleBar": false,
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Dark+",
+    "workbench.statusBar.visible": false,
+
+    "chat.titleBar.openInAgentsWindow.enabled": false,
+
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true
+
+    // UNCOMMENT THIS 2 LINE OF CODE IF YOU DON'T WANT THE VSCODE DO UPDATES (AUTO UPDATES!!)
+    // "update.mode": "none",
+    // "update.showReleaseNotes": false,
+}
