@@ -24,9 +24,39 @@
     "chat.titleBar.openInAgentsWindow.enabled": false,
 
     "code-runner.saveFileBeforeRun": true,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
 
-    // UNCOMMENT THIS 2 LINE OF CODE IF YOU DON'T WANT THE VSCODE DO UPDATES (AUTO UPDATES!!)
+    //NOTE: UNCOMMENT THIS 2 LINE OF CODE IF YOU DON'T WANT THE VSCODE DO UPDATES (AUTO UPDATES!!)
     // "update.mode": "none",
     // "update.showReleaseNotes": false,
+
+    "better-comments.tags": [
+        {
+            "tag": "fix",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "bug",
+            "color": "#fc5432",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "note",
+            "color": "#3294fc",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": true
+        }
+    ]
 }
