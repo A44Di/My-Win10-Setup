@@ -1,63 +1,28 @@
 {
+    "update.mode": "none",
+    "update.showReleaseNotes": false,
+
     "window.menuBarVisibility": "toggle",
-    "window.zoomLevel": 0.7,
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true,
 
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
     "prettier.tabWidth": 4,
 
-    "editor.renderWhitespace": "none",
-    "editor.fontFamily": "JetBrainsMono Nerd Font",
-    "editor.minimap.enabled": false,
-    "editor.lineHeight": 1.5,
-    "editor.wordWrap": "on",
     "editor.cursorBlinking": "solid",
-
-    "workbench.startupEditor": "none",
-    "workbench.browser.showInTitleBar": false,
-    "workbench.sideBar.location": "right",
-    "workbench.colorTheme": "Dark+",
-    // "workbench.statusBar.visible": false,
-
-    "chat.titleBar.openInAgentsWindow.enabled": false,
-
-    "code-runner.saveFileBeforeRun": true,
-    "code-runner.runInTerminal": true,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "none",
 
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
 
-    // UNCOMMENT THIS 2 LINE OF CODE IF YOU DON'T WANT THE VSCODE DO UPDATES (AUTO UPDATES!!)
-    // "update.mode": "none",
-    // "update.showReleaseNotes": false,
+    "workbench.startupEditor": "none",
+    "workbench.sideBar.location": "right",
 
-    "better-comments.tags": [
-        {
-            "tag": "fix",
-            "color": "#FF2D00",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "transparent",
-            "bold": true,
-            "italic": true,
-        },
-        {
-            "tag": "bug",
-            "color": "#fc5432",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "transparent",
-            "bold": false,
-            "italic": false,
-        },
-        {
-            "tag": "note",
-            "color": "#3294fc",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "transparent",
-            "bold": false,
-            "italic": true,
-        },
-    ],
+    "chat.commandCenter.enabled": false,
+    "chat.agent.enabled": false,
 }
