@@ -1,28 +1,25 @@
 {
+    // IF YOU WANT TO VSCODE DO AUTO-UPDATING TURNED ON 
     "update.mode": "none",
     "update.showReleaseNotes": false,
 
     "window.menuBarVisibility": "toggle",
-    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
 
     "code-runner.saveFileBeforeRun": true,
     "code-runner.runInTerminal": true,
 
+    // Formatter config
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
     "prettier.tabWidth": 4,
 
-    "editor.cursorBlinking": "solid",
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
-    "editor.renderWhitespace": "none",
+    "editor.cursorBlinking": "solid",
 
-    "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
 
     "workbench.startupEditor": "none",
-    "workbench.sideBar.location": "right",
-
-    "chat.commandCenter.enabled": false,
-    "chat.agent.enabled": false,
+    "workbench.colorTheme": "Default Dark+",
 }
