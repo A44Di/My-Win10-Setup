@@ -22,7 +22,8 @@
     "editor.wordWrap": "on",
 
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "GitHub Dark",
 
     "chat.agentsControl.enabled": false,
 }
