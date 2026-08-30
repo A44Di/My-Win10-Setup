@@ -1,25 +1,28 @@
 {
-    // IF YOU WANT TO VSCODE DO AUTO-UPDATING TURNED ON 
     "update.mode": "none",
     "update.showReleaseNotes": false,
 
     "window.menuBarVisibility": "toggle",
+    "window.zoomLevel": 1,
 
-    "code-runner.saveFileBeforeRun": true,
-    "code-runner.runInTerminal": true,
-
-    // Formatter config
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
     "prettier.tabWidth": 4,
 
-    "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
-    "editor.cursorBlinking": "solid",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
 
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
 
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.cursorBlinking": "solid",
+    "editor.lineHeight": 1.6,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "Default Dark+",
+
+    "chat.agentsControl.enabled": false,
 }
