@@ -2,8 +2,8 @@
     "update.mode": "none",
     "update.showReleaseNotes": false,
 
+    // "window.zoomLevel": 1,
     "window.menuBarVisibility": "toggle",
-    "window.zoomLevel": 1,
 
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
@@ -15,15 +15,16 @@
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
 
-    "editor.fontFamily": "JetBrainsMono Nerd Font",
     "editor.cursorBlinking": "solid",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
     "editor.lineHeight": 1.6,
     "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
+    "editor.wordWrap": "wordWrapColumn",
 
     "workbench.startupEditor": "none",
     "workbench.sideBar.location": "right",
-    "workbench.colorTheme": "GitHub Dark",
 
     "chat.agentsControl.enabled": false,
+    "extensions.ignoreRecommendations": true,
 }
