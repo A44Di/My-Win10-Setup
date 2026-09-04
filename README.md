@@ -6,7 +6,7 @@
 
 My personal Windows 10 post-installation setup repository! 
 
-Reinstalling Windows can be a tedious process. This repository contains the scripts, configurations, and tweaks I use to automate my Windows 10 setup debloat the system and install my essential tools from web and Python environments to powerful terminal utilities in one go!!
+This repository contains the scripts, configurations, and tweaks I use to automate my Windows 10 setup debloat the system and install my essential tools from web and Python environments to powerful terminal utilities in one go!!
 
 ## ✨ Features
 
